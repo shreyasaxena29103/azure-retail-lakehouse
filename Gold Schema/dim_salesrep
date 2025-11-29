@@ -1,0 +1,1 @@
+'{"fields":[{"metadata":{},"name":"Sales Rep Id","nullable":true,"type":"string"},{"metadata":{},"name":"Sales Rep","nullable":true,"type":"string"}],"type":"struct"}'
