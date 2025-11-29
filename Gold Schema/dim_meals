@@ -1,0 +1,1 @@
+'{"fields":[{"metadata":{},"name":"Meal Id","nullable":true,"type":"string"},{"metadata":{},"name":"Type of Meal","nullable":true,"type":"string"},{"metadata":{},"name":"Meal Price","nullable":true,"type":"integer"}],"type":"struct"}'
