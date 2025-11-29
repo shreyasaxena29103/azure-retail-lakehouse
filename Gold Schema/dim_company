@@ -1,0 +1,1 @@
+'{"fields":[{"metadata":{},"name":"Company Id","nullable":true,"type":"string"},{"metadata":{},"name":"Company Name","nullable":true,"type":"string"}],"type":"struct"}'
